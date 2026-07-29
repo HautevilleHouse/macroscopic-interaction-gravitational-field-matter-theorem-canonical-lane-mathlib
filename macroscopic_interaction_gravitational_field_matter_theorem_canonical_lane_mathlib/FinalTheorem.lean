@@ -1,0 +1,9 @@
+import macroscopic_interaction_gravitational_field_matter_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace macroscopic_interaction_gravitational_field_matter_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end macroscopic_interaction_gravitational_field_matter_theorem_canonical_lane_mathlib
+end HautevilleHouse
